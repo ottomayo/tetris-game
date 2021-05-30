@@ -1,0 +1,19 @@
+{
+  "name": "tetris-game",
+  "version": "1.0.0",
+  "description": "Tetris",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ottomayo/tetris-game.git"
+  },
+  "author": "Otto Mayo",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^13.0.1",
+    "electron-reloader": "^1.2.1"
+  }
+}
